@@ -33,9 +33,9 @@ CREATE TABLE Comunicacoes (
 
 -- Inserção de dados de teste na tabela Moradores
 INSERT INTO Moradores (nome, email, telefone, apartamento) VALUES
-('João Silva', 'joao.silva@email.com', '99999-9999', '101'),
-('Maria Oliveira', 'maria.oliveira@email.com', '88888-8888', '102'),
-('Carlos Pereira', 'carlos.pereira@email.com', '77777-7777', '103');
+('Nívia Maria', 'niviamcosta@yahoo.com.br', '99999-9999', '604'),
+('Ramon Valverde', 'ramon.valverde@email.com', '88888-8888', '802'),
+('Marcos', 'marcos@email.com', '77777-7777', '103');
 
 -- Inserção de dados de teste na tabela Iniciativas Sustentáveis
 INSERT INTO Iniciativas_Sustentaveis (titulo, descricao, data_inicio, data_fim) VALUES
